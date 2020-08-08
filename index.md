@@ -20,3 +20,5 @@ Welcome! We're just a handful of amateur radio enthusiasts who are intersted in 
 #### See a presentation about the OSTWERK Initiative at DEFCON 2020 Safe Mode!
 
 ![promo image](images/promo1.jpg)
+
+[DEFCon Presentation](https://www.twitch.tv/hamradiovillage/video/704504925)
